@@ -1,0 +1,5 @@
+/Users/tubadirmenci/Desktop/OKUL /1.SINIF/NDP/ÖDEV2-G201210005/Sayiyi_Yaziya_Cevirme/obj/Debug/Sayiyi_Yaziya_Cevirme.csproj.AssemblyReference.cache
+/Users/tubadirmenci/Desktop/OKUL /1.SINIF/NDP/ÖDEV2-G201210005/Sayiyi_Yaziya_Cevirme/obj/Debug/Sayiyi_Yaziya_Cevirme.Form1.resources
+/Users/tubadirmenci/Desktop/OKUL /1.SINIF/NDP/ÖDEV2-G201210005/Sayiyi_Yaziya_Cevirme/obj/Debug/Sayiyi_Yaziya_Cevirme.Properties.Resources.resources
+/Users/tubadirmenci/Desktop/OKUL /1.SINIF/NDP/ÖDEV2-G201210005/Sayiyi_Yaziya_Cevirme/obj/Debug/Sayiyi_Yaziya_Cevirme.csproj.GenerateResource.cache
+/Users/tubadirmenci/Desktop/OKUL /1.SINIF/NDP/ÖDEV2-G201210005/Sayiyi_Yaziya_Cevirme/obj/Debug/Sayiyi_Yaziya_Cevirme.csproj.CoreCompileInputs.cache
